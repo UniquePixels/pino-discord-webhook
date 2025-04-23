@@ -1,16 +1,16 @@
 {
 	"name": "pino-discord-webhook",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"description": "pino-discord-webhook is a Pino v7+ compatible transport to forward log events to a Discord webhook from a dedicated worker",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fabulousgk/pino-discord-webhook.git"
+		"url": "git+https://github.com/uniquepixels/pino-discord-webhook.git"
 	},
 	"author": "Brian Lister",
 	"license": "MIT",
-	"homepage": "https://github.com/fabulousgk/pino-discord-webhook#readme",
+	"homepage": "https://github.com/uniquepixels/pino-discord-webhook#readme",
 	"keywords": [
 		"discord",
 		"pino",
